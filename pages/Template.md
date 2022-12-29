@@ -1,5 +1,15 @@
-- {{工作日報}}
+- [[工作日報]] #Week_1
   template:: WorkTemp
-	- {{成果進度}}
-	- {{明日安排}}
-	- {{複盤}}
+	- [[成果進度]]
+		- TODO XXX
+		  :LOGBOOK:
+		  CLOCK: [2022-12-29 Thu 15:14:31]--[2022-12-29 Thu 15:14:32] =>  00:00:01
+		  CLOCK: [2022-12-29 Thu 15:14:32]
+		  :END:
+		- TODO  YYY
+	- [[明日安排]]
+		- TODO XXX
+		- TODO YYY
+	- [[複盤]]
+		- > dasdsad
+- exclude-from-graph-view:: true
