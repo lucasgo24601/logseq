@@ -1,3 +1,5 @@
+exclude-from-graph-view:: true
+
 - [[工作日報]] #Week_1
   template:: WorkTemp
 	- [[成果進度]]
@@ -12,5 +14,3 @@
 		- TODO YYY
 	- [[複盤]]
 		- > dasdsad
--
-- exclude-from-graph-view:: true
