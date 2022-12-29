@@ -1,4 +1,4 @@
-exclude-from-graph-view:: true
+property:: exclude-from-graph-view:: true
 
 - [[工作日報]] #Week_1
   template:: WorkTemp
