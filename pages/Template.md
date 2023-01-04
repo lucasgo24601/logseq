@@ -1,4 +1,4 @@
-- [[工作日報]] #Week_1
+- [[工作日報]] #Week_2
   template:: WorkTemp
 	- [[成果進度]] {{renderer :todomaster}}
 		- TODO XXX
