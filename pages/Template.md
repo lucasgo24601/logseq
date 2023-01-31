@@ -1,4 +1,4 @@
-- [[工作日報]] #Week_5
+- [[工作日報]] #Week_6
   template:: WorkTemp
 	- [[成果進度]] {{renderer :todomaster}}
 		- TODO XXX
@@ -8,7 +8,6 @@
 		  :END:
 		- TODO  YYY
 	- [[明日安排]]
-		- XXX
-		- YYY
+		- ???????
 	- [[複盤]]
 		- > dasdsad
